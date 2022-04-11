@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.782,E:\DelphiProjects\Project1.dproj=E:\DelphiProjects\ParallelLibrary\HandlingExceptions.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,E:\DelphiProjects\Unit1.dfm=E:\DelphiProjects\ParallelLibrary\uHandlingExceptions.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,E:\DelphiProjects\Unit1.pas=E:\DelphiProjects\ParallelLibrary\uHandlingExceptions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,=E:\DelphiProjects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
